@@ -2,7 +2,7 @@
 
 [HTML](https://hzoo.github.io/open-source-charity-or-business/) | [PDF](https://github.com/hzoo/open-source-charity-or-business/blob/master/Charity%20or%20Business.pdf) | [Links](#links) | Video (TBD)
 
-[![](slide.png)](open-source-charity-or-business/)
+[![](slide.jpg)](https://hzoo.github.io/open-source-charity-or-business/)
 
 ## Links
 
