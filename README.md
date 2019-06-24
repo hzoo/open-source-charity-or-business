@@ -1,6 +1,6 @@
 # Open Source: Charity or Business ([JSNation](https://jsnation.com/))
 
-[HTML](https://hzoo.github.io/open-source-charity-or-business/) | [PDF](https://github.com/hzoo/open-source-charity-or-business/blob/master/Charity%20or%20Business.pdf) | Video (TBD)
+[HTML](https://hzoo.github.io/open-source-charity-or-business/) | [PDF](https://github.com/hzoo/open-source-charity-or-business/blob/master/Charity%20or%20Business.pdf) | [Video (31:10)](https://www.youtube.com/watch?v=fpQRi5ZIq1Q)
 
 ## Links
 
